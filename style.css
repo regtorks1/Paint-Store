@@ -265,7 +265,7 @@ html {
   
   /* Red saturation decreases by 15 */
   .reds .saturation .color-1 {
-  background-color: hsl(350, 100%, 80%);
+  background-color: hsl(350, 100%, 50%);
   }
   
   .reds .saturation .color-2 {
